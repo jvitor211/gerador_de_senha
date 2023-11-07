@@ -1,0 +1,14 @@
+C:\c#\AmGPing\test1\test1\bin\Debug\net6.0\test1.exe
+C:\c#\AmGPing\test1\test1\bin\Debug\net6.0\test1.deps.json
+C:\c#\AmGPing\test1\test1\bin\Debug\net6.0\test1.runtimeconfig.json
+C:\c#\AmGPing\test1\test1\bin\Debug\net6.0\test1.dll
+C:\c#\AmGPing\test1\test1\bin\Debug\net6.0\test1.pdb
+C:\c#\AmGPing\test1\test1\obj\Debug\net6.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\AmGPing\test1\test1\obj\Debug\net6.0\test1.AssemblyInfoInputs.cache
+C:\c#\AmGPing\test1\test1\obj\Debug\net6.0\test1.AssemblyInfo.cs
+C:\c#\AmGPing\test1\test1\obj\Debug\net6.0\test1.csproj.CoreCompileInputs.cache
+C:\c#\AmGPing\test1\test1\obj\Debug\net6.0\test1.dll
+C:\c#\AmGPing\test1\test1\obj\Debug\net6.0\refint\test1.dll
+C:\c#\AmGPing\test1\test1\obj\Debug\net6.0\test1.pdb
+C:\c#\AmGPing\test1\test1\obj\Debug\net6.0\test1.genruntimeconfig.cache
+C:\c#\AmGPing\test1\test1\obj\Debug\net6.0\ref\test1.dll
